@@ -12,7 +12,7 @@
 ## 💬 Languages & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,go,graphql,java,spring,jquery,rust,js,html,css,nodejs&perline=8)](https://skillicons.dev)
 
-## ⚙️ Tools:
+## :hammer_and_pick: Tools:
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,atom,aws,bash,bsd,docker,elasticsearch,githubactions,idea,jenkins,maven,mysql,obsidian,redhat,redis,terraform,npm,mongodb,webpack,git,github,vscode,postman,ps&perline=8)](https://skillicons.dev)
 
 ## ☠️ Anti-Socials
