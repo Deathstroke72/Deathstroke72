@@ -18,5 +18,5 @@
 ## ☠️ Anti-Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
-## 🤡 Joke of the Refresh:
+## 🤡 Jokes on the Refresh:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
