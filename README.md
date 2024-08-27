@@ -64,3 +64,6 @@ Recently, I have had friends, family and coworkers ask me for resources to learn
   * [Language Home](https://julialang.org)
   * [Tutorial List](https://julialang.org/learning/tutorials/)
   * [YouTube](https://www.youtube.com/user/JuliaLanguage/playlists)
+* JavaScript
+  * [Language Home - JavaScript/ECMAScript](https://tc39.es/ecma262/)
+  * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
