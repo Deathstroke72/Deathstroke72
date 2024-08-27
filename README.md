@@ -20,3 +20,21 @@
 
 ## 🤡 Jokes on the Refresh:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+# Learn Programming - Recommendations
+Recently, I have had friends, family and coworkers ask me for resources to learn programming/coding.  I have compiled a list below.  I will add more resources as I come across new ones.
+## A list of resources to learn how to program or program better:
+![Moss](https://www.tech-wd.com/wd/wp-content/uploads/2011/12/it-crowd-moss-300x199.jpg)
+
+### Boot Camps & Online Academies
+* [Plural Sight](https://www.pluralsight.com)
+* [Udemy](https://www.udemy.com)
+* [OSU Coding Boot Camp](https://osuokc.edu/tdc/bootcamp)
+* [OU Coding Boot Camp](https://bootcamp.outreach.ou.edu/programs/coding)
+* [OKC Coding Dojo](https://www.codingdojo.com/campus/oklahoma-city-coding-bootcamp)
+
+### Books
+* [The C Programming Language](https://a.co/d/ebfCDEY) - Regardless of the language you choose to program in, I believe that everyone should read and do the exercises in this book.  It is one of the most pragmattic books I have read on programming.
+* [Code Complete](https://a.co/d/bkSqsiv) - Even a seasoned programmer will gain a ton of insight from this book.  It will make you a better programmer and ingrain good habits in your code.
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/i7nsnDT) - This is another quentissential book that all programmers should read.  It is the basics of design, and the patterns outlined inside show up in other, more complex, patterns over and over again.
+* [Patterns of Enterprise Application Architecture](https://a.co/d/3XLx55a) - Martin Fowler is a jack hole, but, unfortunately, he's right most of the time.  This book includes more complex design patterns and groups them by how they might be used in an actual enterprise.
