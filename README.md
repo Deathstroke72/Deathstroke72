@@ -38,3 +38,29 @@ Recently, I have had friends, family and coworkers ask me for resources to learn
 * [Code Complete](https://a.co/d/bkSqsiv) - Even a seasoned programmer will gain a ton of insight from this book.  It will make you a better programmer and ingrain good habits in your code.
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/i7nsnDT) - This is another quentissential book that all programmers should read.  It is the basics of design, and the patterns outlined inside show up in other, more complex, patterns over and over again.
 * [Patterns of Enterprise Application Architecture](https://a.co/d/3XLx55a) - Martin Fowler is a jack hole, but, unfortunately, he's right most of the time.  This book includes more complex design patterns and groups them by how they might be used in an actual enterprise.
+
+### Tools
+* [VS Code](https://code.visualstudio.com)
+* [Postman](https://www.postman.com)
+* [Draw IO](https://app.diagrams.net)
+
+### Languages
+* C-Sharp (C#)
+  * [Language Home](https://dotnet.microsoft.com/en-us/languages/csharp)
+  * [C-Sharp By Example](https://csharpbyexample.dev)
+* GO (Golang)
+  * [Language Home](https://go.dev)
+  * [Go By Example](https://gobyexample.com)
+  * [Golang Weekly](https://golangweekly.com)
+* Java
+  * [Language Home](https://www.java.com/en/)
+  * [Java By Example](https://javabyexample.com)
+  * [W3 Tutorial](https://www.w3schools.com/java/)
+* Rust
+  * [Language Home](https://www.rust-lang.org)
+  * [Language Guide](https://rust-lang.guide)
+  * [MS Learning](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+* Julia
+  * [Language Home](https://julialang.org)
+  * [Tutorial List](https://julialang.org/learning/tutorials/)
+  * [YouTube](https://www.youtube.com/user/JuliaLanguage/playlists)
