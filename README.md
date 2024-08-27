@@ -23,7 +23,7 @@
 
 # Learn Programming - Recommendations
 Recently, I have had friends, family and coworkers ask me for resources to learn programming/coding.  I have compiled a list below.  I will add more resources as I come across new ones.
-## A list of resources to learn how to program or program better:
+## 📓 A list of resources to learn how to program or program better:
 ![Moss](https://www.tech-wd.com/wd/wp-content/uploads/2011/12/it-crowd-moss-300x199.jpg)
 
 ### Boot Camps & Online Academies
