@@ -1,3 +1,5 @@
+[![Linkedin: stephen](https://img.shields.io/badge/-stephen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deathstroke72/)](https://www.linkedin.com/in/deathstroke72/)
+![GitHub followers](https://img.shields.io/github/followers/Deathstroke72?label=Follow&style=social)
 # Hi there 👋
 
 - :telescope: I’m currently working on myself
