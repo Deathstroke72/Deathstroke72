@@ -12,10 +12,30 @@
 - ⚡   Fun fact: Fun facts aren't.
   
 ## 💬 Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,go,graphql,java,spring,jquery,rust,js,html,css,nodejs&perline=8)](https://skillicons.dev)
+
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=0055B3)
+![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0062CC?style=for-the-badge&logo=Databricks&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## :hammer_and_pick: Tools:
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,atom,aws,bash,bsd,docker,elasticsearch,githubactions,idea,jenkins,maven,mysql,obsidian,redhat,redis,terraform,npm,mongodb,webpack,git,github,vscode,postman,ps&perline=8)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/-Git-253F4B?style=for-the-badge&logo=git&logoColor=ffffff)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
 
 ## ☠️ Anti-Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
