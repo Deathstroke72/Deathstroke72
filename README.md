@@ -1,4 +1,5 @@
 [![Linkedin: stephen](https://img.shields.io/badge/-stephen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deathstroke72/)](https://www.linkedin.com/in/deathstroke72/)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/Deathstroke72?label=Follow&style=social)
 # Hi there 👋
 
@@ -26,19 +27,23 @@
 ![SQL](https://img.shields.io/badge/-SQL-0062CC?style=for-the-badge&logo=Databricks&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## :hammer_and_pick: Tools:
-![Git](https://img.shields.io/badge/-Git-253F4B?style=for-the-badge&logo=git&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-253F4B?style=for-the-badge&logo=git&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
-## ☠️ Anti-Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 ## 🤡 Jokes on the Refresh:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
